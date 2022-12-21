@@ -1,4 +1,4 @@
-module github.com/gotabit/sdk-go
+module github.com/jacksoom/sdk-go
 
 go 1.18
 
